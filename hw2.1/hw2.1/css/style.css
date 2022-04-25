@@ -1,0 +1,36 @@
+.wrapper {
+    width: 996px;
+    margin: 0 auto;
+}
+
+h2 {
+    font-weight: 900px;
+}
+
+.block2-title {
+    text-align: center;
+}
+
+.block3 {
+    text-align: center;
+}
+
+.block3-img {
+    width: 766px;
+}
+
+.block3-title{
+    text-align: right;
+}
+
+.block4 {
+    text-align: center;
+}
+
+.block4-img{
+    width: 766px;
+}
+
+.block4-title{
+    text-align: center;
+}
